@@ -4,7 +4,7 @@ HUST,school of atificial intelligence and automation
 
 language:python,c,cpp
 
-currently work on deep learning, machine learning, stochastic process(Gaussian Process)
+currently work on deep learning(CV), machine learning, stochastic process(Gaussian Process)
 
 **reach me here**
 
